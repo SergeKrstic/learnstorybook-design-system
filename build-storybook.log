@@ -1,7 +1,7 @@
 Watching /Users/sergekrstic/repos/tutorials/storybook/learnstorybook-design-system and all sub-directories not excluded by your .gitignore. Will not monitor dotfiles.
 Found & ignored ./node_modules ; is listed in .gitignore
 
-Starting: build-storybook -- --output-dir /var/folders/dk/4cwpskfn6n94sc9nvsd3y85r0000gn/T/chromatic--33955-s368K8iGDzg3
+Starting: build-storybook -- --output-dir /var/folders/dk/4cwpskfn6n94sc9nvsd3y85r0000gn/T/chromatic--34199-6RlqyM675ttw
 node:internal/modules/cjs/loader:928
   throw err;
   ^
